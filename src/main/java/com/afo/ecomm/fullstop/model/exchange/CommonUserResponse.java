@@ -1,4 +1,4 @@
-package com.afo.ecomm.fullstop.user.model.request;
+package com.afo.ecomm.fullstop.model.exchange;
 
 import org.springframework.stereotype.Component;
 
